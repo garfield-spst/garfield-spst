@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garfield-spst.github.io/garfield-spst.xyz/sitemap.xml
